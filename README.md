@@ -12,6 +12,9 @@ Below is an illustration of how our different data sets are inter connected to e
 
 - There will be a total of 72,458 people retiring from Pewlett-Hackard.
 - The largest group that will be retiring is the senior engineering with 25,916 jobs that will need filled
+
+![](https://github.com/kbehyar/Pewlett-Hackard-Analysis/blob/main/Queries/retirement_count.PNG)
+
 - Pewlett-Hackard has identified 1,549 people eligible for the mentorship program
 
 
